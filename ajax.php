@@ -1,5 +1,5 @@
 
-<?php
+<?php .......
 
 include("includes/check_session.php");
 include("api/config.php");
